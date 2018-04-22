@@ -1,1 +1,11 @@
-* {background :white}
+
+
+#addAchild {
+    /*background: yellow;*/
+    align-content: center;
+    display: block;
+}
+button{
+
+    background-color: springgreen;
+}
